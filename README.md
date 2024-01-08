@@ -1,5 +1,7 @@
 ![Screenshot (20)](https://github.com/Srijan8282/ChatGeniusX/assets/115431775/baa6ff34-014c-4e1c-b215-1a38239e8461)
 
+### `IMPORTANT WORDS FOR API KEY: `
+The API Key used for the project is just a dummy API. It will not work since it will corss the limit of hit. You can create your own key easily from openAI platform and replace it with my API key to see desired result.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
